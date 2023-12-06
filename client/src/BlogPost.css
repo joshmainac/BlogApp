@@ -1,0 +1,28 @@
+.blog-post {
+    border-bottom: 1px solid #eaeaea;
+    padding: 20px;
+    margin-bottom: 20px;
+}
+
+.blog-post h2 {
+    font-size: 1.5em;
+    color: #333;
+    margin-bottom: 10px;
+}
+
+.blog-post .category {
+    font-size: 0.9em;
+    color: #888;
+    margin-bottom: 5px;
+}
+
+.blog-post .summary {   
+    font-size: 1em;
+    color: #666;
+    margin-bottom: 10px;
+}
+
+.blog-post .date {
+    font-size: 0.8em;
+    color: #aaa;
+}
